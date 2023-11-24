@@ -11,3 +11,4 @@
 
 All code except drivers in `GPLDriver` directory are licensed under BSD 2-Clause. 
 GPL Drivers are licensed under GPLv2 license.
+View
