@@ -68,3 +68,4 @@
   gEfiMdeModulePkgTokenSpaceGuid.PcdConOutRow|160
 
 !include Lumia650Pkg/Shared.dsc.inc
+#0x0
